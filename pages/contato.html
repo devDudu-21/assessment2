@@ -21,7 +21,7 @@
         </a>
       </div>
       <div class="Navbar__Link Navbar__Link-toggle">
-        <i class="fas fa-bars"></i>
+        <i class="fas fa-bars button-menu"></i>
       </div>
       <nav class="Navbar__Items">
         <div class="Navbar__Link">
