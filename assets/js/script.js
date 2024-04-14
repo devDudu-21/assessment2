@@ -7,3 +7,12 @@ function classToggle() {
 document
   .querySelector(".Navbar__Link-toggle")
   .addEventListener("click", classToggle);
+
+function changeColorToogle() {
+  const buttonIcon = document.querySelectorAll(".button-menu");
+  buttonIcon.forEach((button) => button.classList.toggle("button-menu-blue"));
+}
+
+document
+  .querySelector(".button-menu")
+  .addEventListener("click", changeColorToogle);
