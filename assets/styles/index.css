@@ -104,11 +104,13 @@ footer {
   background: transparent;
   color: #fff;
   background: #000;
+  font-size: 12px;
 }
 
 footer > p {
   margin: 0 auto;
   text-align: center;
+  opacity: 0.6;
 }
 
 main > section:first-child {
@@ -131,8 +133,8 @@ main form {
   padding: 50px;
   display: flex;
   flex-direction: column;
-  width: 750px;
-  height: 750px;
+  width: 650px;
+  height: 650px;
   border-radius: 15px;
   color: #fff;
   gap: 25px;
