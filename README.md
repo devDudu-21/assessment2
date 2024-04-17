@@ -31,7 +31,7 @@ Website empresarial para a matéria de Desenvolvimento de Aplicações Web na UV
 │   ├── novidades.php
 │   ├── produtos.php
 │   └── sobre.html
-├── config.php
+│
 └── index.html
 
 
