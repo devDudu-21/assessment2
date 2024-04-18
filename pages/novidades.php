@@ -57,21 +57,6 @@
         </div>");
         $conexao->close();
         ?>
-
-        <?php
-        $conexao = new mysqli('localhost', 'root', '', 'empresa');
-        $consulta = $conexao->query("SELECT * FROM novidades");
-        $resultado = $consulta->fetch_all(MYSQLI_ASSOC);
-        foreach ($resultado as $novidade)
-          echo ("<div class='item-novidades'>
-          <img src='caminho/para/imgnovidades.php?id=" . $novidade['id_nov'] . "' alt=''>
-           <div>
-              <h2>" . $novidade['resumo'] . "</h2>Sty
-                <p>" . $novidade['descricao'] . "</p>
-            </div>
-        </div>");
-        $conexao->close();
-        ?>
       </div>
     </section>
 
