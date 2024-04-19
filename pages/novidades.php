@@ -64,7 +64,8 @@
   </main>
 
   <footer>
-    <p>Copyright &copy; 2024 TechSprint Solutions Todos os direitos reservados.</p>
+    <p>Copyright &copy; 2024 TechSprint Solutions Todos os direitos reservados. Arthur Luis, Eduardo, Gabriel e Luiz
+      Felipe</p>
   </footer>
 
   <script src="../assets/js/script.js"></script>
