@@ -1,6 +1,11 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
 
+<!-- Arthur Luis Lima Teixeira (1240110647) -->
+<!-- Eduardo de Oliveira Fernandes (1240104170) -->
+<!-- Gabriel Albuquerque Varela Santarello (1240110815 -->
+<!-- Luiz Felipe de Aguiar Passaroni (1240114559)-->
+
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
