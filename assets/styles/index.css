@@ -1,3 +1,10 @@
+/*
+Arthur Luis Lima Teixeira (1240110647)
+Eduardo de Oliveira Fernandes (1240104170)\
+Gabriel Albuquerque Varela Santarello (1240110815) 
+Luiz Felipe de Aguiar Passaroni (1240114559)
+*/
+
 @import url("https://fonts.googleapis.com/css2?family=Poppins&family=Croissant+One&family=Roboto&display=swap");
 
 * {
@@ -532,12 +539,6 @@ textarea {
 }
 
 .index-content {
-  /* background: linear-gradient(
-    360deg,
-    rgba(0, 0, 0, 1) 0%,
-    rgba(0, 134, 255, 1) 34%,
-    rgba(0, 254, 245, 1) 100%
-  ); */
   height: 100%;
   padding: 30px;
   display: flex;
