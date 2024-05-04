@@ -1,6 +1,6 @@
-# Avaliação 2 UVA
+# Avaliação 2
 
-Website empresarial para a matéria de Desenvolvimento de Aplicações Web na UVA. Inclui cinco páginas (principal, produtos, novidades, sobre e contato) sendo duas dinâmicas com PHP e três estáticas com HTML, sendo todas estilizadas por um único arquivo CSS. Todos os código e arquivos estão disponíveis.
+Website empresarial para a matéria de Desenvolvimento de Aplicações Web. Inclui cinco páginas (principal, produtos, novidades, sobre e contato) sendo duas dinâmicas com PHP e três estáticas com HTML, sendo todas estilizadas por um único arquivo CSS. Todos os código e arquivos estão disponíveis.
 
 ## Tecnologias utilizadas
 
